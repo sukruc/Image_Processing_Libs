@@ -2,7 +2,7 @@
 Image Processing Libraries in Python
 
 
--[SciPy](SciPy/README.md)
+-[SciPy]
 -[OpenCV](OpenCV/README.md)
 -[SimpleCV](SimpleCV/README.md)
 -[SimpleITK](SimpleITK/README.md)
