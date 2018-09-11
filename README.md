@@ -1,6 +1,7 @@
 # Image Processing Libraries
 Image Processing Libraries in Python
 
+
 -[SciPy](SciPy/README.md)
 -[OpenCV](OpenCV/README.md)
 -[SimpleCV](SimpleCV/README.md)
@@ -11,6 +12,7 @@ Image Processing Libraries in Python
 -[scikit-image](scikit-image/README.md)
 -[Mahotas](Mahotas/README.md)
 -[pycairo](pycairo/README.md)
+
 
 |Library Name|Description|Features|Potential Disadvantages|
 |-----|-----|-------|--------|
