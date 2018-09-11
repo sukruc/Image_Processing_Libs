@@ -26,3 +26,7 @@ PythonMagick|"PythonMagick is the Python binding of the ImageMagick which is a f
 scikit-image|"scikit-image library includes algorithms for segmentation, geometric transformations, color space manipulation, analysis, filtering, morphology, feature detection in images. Its mostly written in python except for the parts written in Cython for the sake of performance. It can be interoperated with SciPy and NumPy"||Needs additional libraries to perform video processing
 Mahotas|"Mahotas library provides fast computer vision algorithms like watershed, thinning, thresholding etc implemented in c++. The algorithms can be operated over numpy arrays."||
 pycairo|"pycairo is a set of python bindings for the 2D graphics library cairo.They provide an object oriented interface to cairo.The Cairo library can output data to consistently to X Window system, win32 image buffers, pdf, svg files etc."||
+
+
+
+This list is compiled from community edited sources.
