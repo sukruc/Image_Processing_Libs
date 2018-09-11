@@ -22,6 +22,6 @@ args = vars(ap.parse_args())
 
 # load the image, convert it to grayscale, and blur it slightly
 image = skimage.io.imread(args["image"])
-gray = skimage.color.rgb2rgb2gray(image)
-gray = cv2.GaussianBlur(gray, (7, 7), 0)
+gray = skimage.color.rgb2gray(image)
+gray = skimage.filters.gaussian(gray)
 # TODO: blur image using skimage
