@@ -1,7 +1,6 @@
 # Image Processing Libraries
 Image Processing Libraries in Python
 
--[NumPy](NumPy/README.md)
 -[SciPy](SciPy/README.md)
 -[OpenCV](OpenCV/README.md)
 -[SimpleCV](SimpleCV/README.md)
@@ -13,8 +12,8 @@ Image Processing Libraries in Python
 -[Mahotas](Mahotas/README.md)
 -[pycairo](pycairo/README.md)
 
-Library Name|Description|Features|Potential Disadvantages
-NumPy||Ultimate flexibility|Requires low level programming compared to adverse libraries
+|Library Name|Description|Features|Potential Disadvantages|
+|-----|-----|-------|--------|
 SciPy.ndimage|"scipy.ndimage packages provide various image processing functions that can be operated with arrays of any dimensionality. The packages currently include functions for linear and non-linear filtering, binary morphology, B-spline interpolation, and object measurements."||
 OpenCV|OpenCV-Python is a Python wrapper for the OpenCV C++ implementation. OpenCV-Python makes use of Numpy. All the OpenCV array structures are converted to and from Numpy arrays. This also makes it easier to integrate with other libraries that use Numpy such as SciPy and Matplotlib.|"Written in C/C++ and fast
 Low memory usage
