@@ -8,7 +8,7 @@ import argparse
 import imutils
 import skimage
 
-# argument parse construction
+# argument parse construction#
 # use this part to pass parameters like filepath and default height/width to externally run program
 #from command line
 ap = argparse.ArgumentParser()
